@@ -1,0 +1,25 @@
+body
+{
+	background: radial-gradient(rgb(255, 0, 0), rgb(255, 166, 0), rgb(255, 255, 0));
+}
+.login
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#play1name , #play2name
+{
+	display: inline-block;
+}
+#output{
+	background :white;
+	border-radius: 10px;
+	border-top: 10px solid #AA4465;
+	padding: 10px;
+	float: none;
+	text-align: left;
+}
